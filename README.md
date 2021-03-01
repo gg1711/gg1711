@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Gaurav Gupta
+
+I am Pre-final year CSE student from IIT Bhubaneswar. 
 
 <!--
 **gg1711/gg1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
