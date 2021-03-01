@@ -1,4 +1,4 @@
-### Hi there 👋, I am Gaurav Gupta
+### Hi there 👋, I'm Gaurav
 
 I am Pre-final year CSE student from IIT Bhubaneswar. 
 
